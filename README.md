@@ -7,7 +7,7 @@ data insertion, and 20 SQL queries covering core SQL topics.
 
 ## Technologies/Tools Used
 - SQL
-- Dbeaver
+- DBeaver
 - Notepad (for SQL scripting)
 
 ## Database Tables
